@@ -1,0 +1,8 @@
+target/
+project/
+*.class
+tags
+.*.swp
+.*.swo
+*.conf
+.DS_Store

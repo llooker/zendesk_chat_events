@@ -1,0 +1,2 @@
+# Zendesk Chat Events
+This is a Spark job written in Scala, the purpose of which is to take Zendesk chats—which are simply blobs of text—and turn them into time-based message sequences. The data is assumed to come from the Zendesk API with minimal transformation. Reach out to scott@looker.com or @githoov with any issues or questions.

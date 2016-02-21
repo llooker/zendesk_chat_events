@@ -1,0 +1,6 @@
+aws {
+  key = "YOUR_KEY",
+  secret = "YOUR_SECRET",
+  source_bucket = "s3n://YOUR_SOURCE_BUCKET/*",
+  destination_bucket = "s3n://YOUR_DESTINATION_BUCKET/"
+}
